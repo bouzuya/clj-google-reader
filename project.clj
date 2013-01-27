@@ -1,4 +1,4 @@
-(defproject google-reader "0.1.0"
+(defproject org.clojars.bouzuya/google-reader "0.1.1"
   :description "Google Reader API for Clojure (unofficial) ."
   :url "http://github.com/bouzuya/clj-google-reader"
   :license {:name "Eclipse Public License"
